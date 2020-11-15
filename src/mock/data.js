@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'work.kaushalag29@gmail.com',
 };
 
 // FOOTER DATA
