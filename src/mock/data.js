@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'I am a Computer Science Graduate, passionate about Software Development, Web Penetration Testing & Data Engineering.',
+  paragraphTwo: 'I am always ready to adapt and work with new Technology. Security & Privacy comes first into my mind before starting anything afresh.',
+  paragraphThree: 'Thank you for giving considerable amount of time for viewing my portfolio. I can be reached anytime via email or by cell phone.',
   resume: 'https://drive.google.com/file/d/1Qr3srYG9KxZeLB5BeNnycM6aroxjtDu-/view?usp=sharing', // if no resume, the button will not show up
 };
 
