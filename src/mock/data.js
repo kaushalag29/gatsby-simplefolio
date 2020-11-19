@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'Project1.png',
+    title: 'Chat With Strangers',
+    info: 'Simple Website Interface For Unknown Users To Chat With Each Other Using Random Nick-Name.',
+    info2: 'Tech Stack --> Node.js(Express & Socket.io), MongoDB',
+    url: 'https://youtu.be/8b7h7xvvCl8',
+    repo: 'https://github.com/kaushalag29/Chat-WebSite', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'Project2.png',
+    title: 'Web Reconnaissance',
+    info: 'This tool is developed for passively scanning a Website completely with the help of many Github repositories.',
+    info2: 'Tech Stack --> Python Scripting',
+    url: 'https://www.youtube.com/watch?v=Bx8G4BnEbx8',
+    repo: 'https://github.com/kaushalag29/Website-Scanners', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'Project3.png',
+    title: 'BC Web Hosting Platform',
+    info: 'A platform for hosting Website(1.0) using Ethereum Blockchain & IPFS Technology.',
+    info2: 'Tech Stack --> Blockchain, IPFS, Metamask, Chrome Extension',
+    url: 'https://youtu.be/BoGtQ4uK0-I',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
