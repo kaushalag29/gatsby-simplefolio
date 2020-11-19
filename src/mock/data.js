@@ -3,7 +3,7 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Engineering Intern', // e.g: 'Name | Developer'
-  lang: 'Python, C++, Java, Javascript', // e.g: en, es, fr, jp
+  lang: 'en', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
 
@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a Computer Science Graduate, passionate about Software Development, Web Penetration Testing & Data Engineering.',
+  paragraphOne: 'I am a Computer Science Graduate(2020), passionate about Software Development, Web Penetration Testing & Data Engineering.',
   paragraphTwo: 'I am always ready to adapt and work with new Technology. Security & Privacy comes first into my mind before starting anything afresh.',
-  paragraphThree: 'Thank you for giving considerable amount of time for viewing my portfolio. I can be reached anytime via email or by cell phone.',
-  resume: 'https://drive.google.com/file/d/1Qr3srYG9KxZeLB5BeNnycM6aroxjtDu-/view?usp=sharing', // if no resume, the button will not show up
+  paragraphThree: 'I have worked majorly as a Backend Engineering Intern in various companies. I can be reached anytime via email.',
+  resume: 'https://drive.google.com/file/d/1BxaHyKCpxXsHsdluTLSqmVQN-ZfzhLEX/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
