@@ -23,7 +23,7 @@ const CustomNavbar = () => {
   return (
     <Container>
       <Navbar bg="primary" variant="dark" fixed="top">
-        <Navbar.Brand style={{cursor: "default"}}>Portfolio</Navbar.Brand>
+        <Navbar.Brand style={{cursor: "default"}}>My Portfolio</Navbar.Brand>
           <Nav className="mr-auto">
             <Container>
               <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={500} distance="30px">
